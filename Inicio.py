@@ -1,5 +1,6 @@
 
 def Ejecutar():
+    #Hay que fijarse lo que se esta haciendo
     Hola = print("Hola como estas")
 
     respuesta = print("Bien y vos")
